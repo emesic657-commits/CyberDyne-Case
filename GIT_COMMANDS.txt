@@ -9,9 +9,6 @@ git branch -M main
 git remote add origin https://github.com/emesic657-commits/CyberDyne-Case.git
 git push -u origin main
 
-
-
-If Git asks you to set your name and email, configure them with:
 git config --global user.name "Your Name"
 git config --global user.email "emesic657@gmail.com"
 
