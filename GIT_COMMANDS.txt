@@ -1,20 +1,19 @@
 CYBERDYNE CASE - GIT COMMANDS
 
-Open a terminal in this folder and run:
+
 
 git init
 git add .
 git commit -m "Initial evidence collected"
 git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/CyberDyne-Case.git
+git remote add origin https://github.com/emesic657-commits/CyberDyne-Case.git
 git push -u origin main
 
-Replace YOUR-USERNAME with your GitHub username.
+
 
 If Git asks you to set your name and email, configure them with:
 git config --global user.name "Your Name"
-git config --global user.email "your-email@example.com"
+git config --global user.email "emesic657@gmail.com"
 
-Then repeat the commit command.
 
-Note: Create a PUBLIC repository named CyberDyne-Case on GitHub first.
+
